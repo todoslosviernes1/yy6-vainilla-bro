@@ -1,10 +1,10 @@
 {
-  "name": "Dev'Coffee",
-  "short_name": "DevCoffee",
+  "name": "Autos'Accesorio",
+  "short_name": "Autos",
   "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#fdfdfd",
-  "theme_color": "#db4938",
+  "display": "fullscreen",
+  "background_color": "#fefc4a",
+  "theme_color": "#fefc4a",
   "orientation": "portrait-primary",
   "icons": [
     {
